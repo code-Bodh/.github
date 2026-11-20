@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Native High-Performance Self-Hosted SVG Header Banner -->
-<img src="https://raw.githubusercontent.com/code-Bodh/.github/main/profile/header.png" width="100%" alt="CodeBodh.com Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,5,11&height=220&section=header&text=CodeBodh.com&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Bilingual%20Coding%20Tutorials%20%E2%80%A2%20Web%20Development%20%E2%80%A2%20Practical%20Engineering&descFontSize=19&descAlignY=62" width="100%" alt="CodeBodh.com Header" />
 
 <!-- Live Dynamic Metrics & Badges -->
 <p align="center">
